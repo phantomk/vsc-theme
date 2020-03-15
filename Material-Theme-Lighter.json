@@ -129,7 +129,7 @@
     },
     {
       "name": "Class",
-      "scope": "entity.name, entity.name.type.class, support.type, support.class, meta.use",
+      "scope": "entity.name.type.class, support.type, support.class, meta.use",
       "settings": {
         "foreground": "#FFB62C"
       }
