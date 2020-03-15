@@ -47,7 +47,7 @@
       "name": "Variable",
       "scope": "variable, variable.parameter, support.variable, variable.language, support.constant, meta.definition.variable entity.name.function, meta.function-call.arguments",
       "settings": {
-        "foreground": "#90A4AE"
+        "foreground": "#000"
       }
     },
     {
@@ -93,7 +93,8 @@
       "name": "Type",
       "scope": "support.type, constant.other.key",
       "settings": {
-        "foreground": "#FFB62C"
+        "foreground": "#FFB62C",
+        "fontStyle": "italic"
       }
     },
     {
@@ -399,7 +400,7 @@
       "name": "Blocks",
       "scope": "meta.block",
       "settings": {
-        "foreground": "#E53935"
+        "foreground": "#39ADB5"
       }
     },
     {
