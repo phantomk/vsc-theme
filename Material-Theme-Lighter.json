@@ -54,14 +54,16 @@
       "name": "Other Keyword",
       "scope": "keyword.other",
       "settings": {
-        "foreground": "#F76D47"
+        "foreground": "#F76D47",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Keyword",
       "scope": "keyword, modifier, variable.language.this, support.type.object, constant.language",
       "settings": {
-        "foreground": "#39ADB5"
+        "foreground": "#39ADB5",
+        "fontStyle": "italic"
       }
     },
     {
