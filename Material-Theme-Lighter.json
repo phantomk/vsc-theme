@@ -45,7 +45,7 @@
     },
     {
       "name": "Variable",
-      "scope": "variable, variable.parameter, support.variable, variable.language, support.constant, meta.definition.variable entity.name.function, meta.function-call.arguments",
+      "scope": "variable, variable.parameter, support.variable, variable.language, support.constant, meta.definition.variable entity.name.function, meta.function-call.arguments, source.go",
       "settings": {
         "foreground": "#000"
       }
