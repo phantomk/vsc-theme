@@ -77,7 +77,8 @@
       "name": "Storage",
       "scope": "storage.type, storage.modifier",
       "settings": {
-        "foreground": "#7C4DFF"
+        "foreground": "#7C4DFF",
+        "fontStyle": "italic"
       }
     },
     {
