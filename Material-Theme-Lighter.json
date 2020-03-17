@@ -51,6 +51,21 @@
       }
     },
     {
+      "name": "Operator Keyword < ? = || :>",
+      "scope": "keyword.operator",
+      "settings": {
+        "foreground": "#39ADB5",
+        "fontStyle": "normal"
+      }
+    },
+    {
+      "name": "Control Flow Keyword < await >",
+      "scope": "keyword.control.flow",
+      "settings": {
+        "foreground": "#7C4DFF"
+      }
+    },
+    {
       "name": "Other Keyword",
       "scope": "keyword.other",
       "settings": {
